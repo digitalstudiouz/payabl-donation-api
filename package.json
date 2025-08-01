@@ -1,0 +1,17 @@
+{
+  "name": "payabl-donation-api",
+  "version": "1.0.0",
+  "description": "Donation API for Payabl integration",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step needed'",
+    "start": "echo 'Use vercel dev for local development'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
